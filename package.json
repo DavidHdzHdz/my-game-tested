@@ -1,0 +1,15 @@
+{
+  "name": "davidh",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'the mocha test must run on a server in this url: server_url:port/test/'"
+  },
+  "author": "David Hernández <davidhhw24@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1"
+  }
+}
