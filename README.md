@@ -1,13 +1,18 @@
 # Juego de piedra papel o Tijera
 
-**para jugar se debe ejeutar en un servidor y abrir la carpeta donde se haya guardado, por ejemplo:**
+**Primero instalar las dependencias de desarrollo mocha y chai con:**
 ```
-server_url:port/my-game-tested/
+npm install --only=dev
 ```
 
-**para jugar ejecutar las mocha unit test con chai en ir a:**
+**para jugar se debe ejceutar un servidor y abrir la carpeta del proyecto, por ejemplo:**
 ```
-server_url:port/my-game-tested/test/
+localhost:port/my-game-tested/
+```
+
+**para ejecutar las mocha unit test con chai ir a:**
+```
+localhost:port/my-game-tested/test/
 ```
 
 ### ¡GAME START!

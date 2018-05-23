@@ -128,6 +128,3 @@ const playerLivesText = document.getElementById('player');
 const gameStateText = document.getElementById('gameState');
 
 let game = new Game(button, input, COMLivesText, playerLivesText, gameStateText);
-
-// Exports
-module.exports = Game;
